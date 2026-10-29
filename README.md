@@ -1,16 +1,26 @@
-## Hi there 👋
+# Julián Gonzaga
 
-<!--
-**Julian-Gonzaga/Julian-Gonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Analista de Soporte Técnico y Desarrollo de Software**
 
-Here are some ideas to get you started:
+Me dedico a resolver incidencias técnicas y problemas de programación, con atención al diagnóstico ordenado, la documentación clara y la solución definitiva de cada caso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Áreas de trabajo
+
+- Atención y resolución de tickets de soporte (nivel 1 y 2)
+- Diagnóstico de fallas de hardware, software y red
+- Identificación y corrección de errores en código
+- Automatización de tareas repetitivas mediante scripts
+- Documentación de procedimientos y soluciones
+
+## Tecnologías
+
+- **Sistemas operativos:** Windows, Linux
+- **Lenguajes:** Python, JavaScript, SQL
+- **Herramientas:** Git, GitHub, PowerShell, Bash
+- **Soporte:** Active Directory, Office 365, redes TCP/IP
+- **Gestión de tickets:** Jira, GLPI
+
+## Contacto
+
+- Correo: 3126934800j@gmail.com
+- GitHub: [github.com/tu-usuario](https://github.com/julian-Gonzaga)
