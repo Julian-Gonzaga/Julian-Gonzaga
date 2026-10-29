@@ -1,4 +1,4 @@
-# Julián Gonzaga
+# Julián González
 
 **Analista de Soporte Técnico y Desarrollo de Software**
 
