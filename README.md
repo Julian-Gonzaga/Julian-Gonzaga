@@ -12,6 +12,16 @@ Me dedico a resolver incidencias técnicas y problemas de programación, con ate
 - Automatización de tareas repetitivas mediante scripts
 - Documentación de procedimientos y soluciones
 
+## Proyectos destacados
+
+### [CONTRA MARGEN](https://github.com/Julian-Gonzaga/CONTRA-MARGEN) · [Ver sitio en vivo →](https://contra-margen.vercel.app)
+
+Revista cultural digital con panel de administración para publicar artículos, imágenes y videos.
+
+- **Stack:** TypeScript, Next.js, Payload CMS, PostgreSQL, Docker, Tailwind CSS
+- **Despliegue:** Vercel + Neon (base de datos) + Vercel Blob (imágenes)
+- **Calidad:** pruebas automáticas con Vitest y Playwright, revisión de seguridad (XSS, control de acceso, cabeceras) y diseño adaptable a móviles
+
 ## Tecnologías
 
 - **Sistemas operativos:** Windows, Linux
@@ -22,5 +32,5 @@ Me dedico a resolver incidencias técnicas y problemas de programación, con ate
 
 ## Contacto
 
-- Correo: 3126934800j@gmail.com
-- GitHub: [github.com/tu-usuario](https://github.com/julian-Gonzaga)
+- Correo: [3126934800j@gmail.com](mailto:3126934800j@gmail.com)
+- GitHub: [github.com/Julian-Gonzaga](https://github.com/Julian-Gonzaga)
